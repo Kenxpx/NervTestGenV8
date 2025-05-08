@@ -2,8 +2,6 @@
 
 **NervTestGenV8** is an advanced 3D cloud gaming system that utilizes real-time **image prediction** to virtually eliminate the latency experienced in traditional remote gaming. By combining deep learning with geometry-aware rendering, NervTestGenV8 delivers smooth and instantaneous game frames before the server finishes rendering them.
 
-![Preview](docs/imgs/new_main_pic.jpg) <sup>🔁 Replace with an updated illustration showing predictive gaming frame generation.</sup>
-
 ---
 
 ## 🚀 Key Highlights
@@ -32,7 +30,7 @@ Reconstructs static scene elements through image-based rendering (DIBR), optiona
 ### 🔧 Setup
 
 ```bash
-git clone https://github.com/yourusername/NervTestGenV8.git
+git clone https://github.com/Kenxpx/NervTestGenV8.git
 cd NervTestGenV8/foreground
 conda env create -f environment.yml
 conda activate nervfg
@@ -96,28 +94,12 @@ Built upon and inspired by the following open-source projects:
 
 ---
 
-## 📈 Research Reference
-
-If you use this project in your research or development, please cite:
-
-```
-@inproceedings{wu2023zgaming,
-  title={ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction},
-  author={Wu, Jiangkai and Guan, Yu and Mao, Qi and Cui, Yong and Guo, Zongming and Zhang, Xinggong},
-  booktitle={Proceedings of the ACM SIGCOMM 2023 Conference},
-  year={2023},
-  pages={710--723}
-}
-```
-
----
-
 ## 📬 Contact & Contributions
 
 We welcome contributions and feedback!
 
-* 📧 Email: [yourname@yourdomain.com](mailto:yourname@yourdomain.com)
-* 🛠️ Issues & Pull Requests: [GitHub Issues](https://github.com/yourusername/NervTestGenV8/issues)
+* 📧 Email: [sachinbinduc@gmail.com](mailto:sachinbinduc@gmail.com)
+* 🛠️ Issues & Pull Requests: [GitHub Issues](https://github.com/Kenxpx/NervTestGenV8/issues)
 
 ---
 
